@@ -45,7 +45,7 @@ section {
     padding: 0 2rem;
 }
 .alert__msj {
-    position: absolute;
+    position: fixed;
     transition: .3s ease-in-out;
     opacity: 0;
     right: -100%;
